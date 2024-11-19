@@ -1,4 +1,4 @@
-Requirements
+#Requirements
 
 The API should return data in JSON format. Errors should be returned in JSON format as well, with an appropriate status code. A refresher on HTTP status codes: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status.
 You can POST to /api/users with form data username to create a new user. The returned response will be an object with username and id properties.
